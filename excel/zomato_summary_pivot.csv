@@ -1,0 +1,6 @@
+location,count_Buffet,count_Cafes,count_Delivery,count_Dine-out,count_Pubs and bars,mean_Buffet,mean_Cafes,mean_Delivery,mean_Dine-out,mean_Pubs and bars
+BTM,1,0,0,0,0,3.9,0.0,0.0,0.0,0.0
+Indiranagar,0,1,1,0,0,0.0,3.8,3.2,0.0,0.0
+Jayanagar,0,0,0,2,0,0.0,0.0,0.0,4.0,0.0
+Koramangala,1,1,0,0,0,4.1,4.2,0.0,0.0,0.0
+MG Road,0,0,0,0,1,0.0,0.0,0.0,0.0,4.0

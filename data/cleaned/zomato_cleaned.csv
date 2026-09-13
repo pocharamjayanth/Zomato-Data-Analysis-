@@ -1,0 +1,11 @@
+name,online_order,book_table,rate,votes,location,rest_type,cuisines,approx_cost(for two people),listed_in(type)
+Restaurant A,yes,yes,4.1,120,Koramangala,Casual Dining,"North Indian, Chinese",600,Buffet
+Cafe B,yes,no,3.8,85,Indiranagar,Cafe,"Cafe, Fast Food",400,Cafes
+Dining C,no,yes,,0,BTM,Casual Dining,South Indian,1200,Delivery
+Dine D,no,no,4.5,450,Jayanagar,Fine Dining,"Italian, Continental",2500,Dine-out
+Cafe E,yes,no,,12,Koramangala,Cafe,"Beverages, Desserts",300,Cafes
+Restaurant F,no,yes,3.2,60,Indiranagar,Quick Bites,South Indian,250,Delivery
+Bar G,yes,no,4.0,310,MG Road,Bar,"Finger Food, North Indian",1500,Pubs and bars
+Buffet H,no,yes,3.9,220,BTM,Casual Dining,"North Indian, Mughlai",1000,Buffet
+Cafe I,yes,no,4.2,150,Koramangala,Cafe,"Coffee, Tea",350,Cafes
+Dining J,yes,yes,3.5,95,Jayanagar,Casual Dining,"Biryani, Chinese",800,Dine-out
