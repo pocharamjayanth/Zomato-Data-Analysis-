@@ -1,0 +1,13 @@
+﻿# Zomato Restaurant & Customer Analytics: Executive Summary
+
+## Overview
+This project delivers an exploratory data analysis of Zomato restaurant data, combining Python preprocessing, SQLite database querying, and Power BI visual dashboards to uncover dining patterns, pricing benchmarks, and customer delivery preferences.
+
+## Key Findings
+1. **Online Delivery Dynamics:** Cafes lead heavily in digital delivery and online ordering adoption, whereas traditional fine dining venues and pubs lean heavily on in-person physical walk-ins.
+2. **Pricing Structure:** Most couples and pairs look for affordable dining options, with a high density of restaurants clustering around moderate price ranges.
+3. **Ratings & Engagement:** Stable ratings across digital order channels demonstrate that online adoption maintains strong, consistent customer satisfaction.
+
+## Recommendations
+* **Targeted Onboarding:** Zomato can drive campaigns to incentivize traditional dining categories to adopt hybrid or digital delivery options.
+* **Menu Optimization:** Restaurants should align pricing tiers with popular customer spending sweet spots to maximize conversion.
